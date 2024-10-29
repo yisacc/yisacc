@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yisacc&show_icons=true&theme=radical&locale=en" alt="yisacc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yisacc&" alt="yisacc" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=yisacc" alt="yisacc" /></p>
 
 
 
